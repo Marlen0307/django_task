@@ -1,4 +1,4 @@
-# Django Polls App
+# Django Polls App for the 7th and 8th milestone
  In this project I have built a simple poll application. The app allows users to view polls and vote in them. The app also allows users to create polls and add questions to them. The app is built using Django as an MVC framework.
  In this project we can see all of the three layer of Django : Model, View and Controllers.
 
